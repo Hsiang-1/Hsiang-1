@@ -10,10 +10,9 @@
 - Be free to ask me about anything [here](https://github.com/Hsiang-1/Hsiang-1/issues).
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hsiang-1&show_icons=true">
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hsiang-1">
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hsiang-1&show_icons=true">
 
 
 
