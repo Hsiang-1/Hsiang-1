@@ -5,9 +5,11 @@
 - 📖 I’m also learning Algebra, Probability & Statistics, and a little Graph Theory. I think it's necessary & interesting.
 - 👯 I’m looking to collaborate on some small projects in hardware (embedded) or software (C++/Python). We can enjoy it!
 - 🤔 I’m looking for help with Intelligent Algorithm(ML/DL/PRAI), which is my target for the next stage maybe.
-- 🀄 Interests: 🎖️ Military, ☯️ Classical Chinese Philosophy, 🎵 Music (Arrangement & Orchestration) ...
+- 🀄 Other Interests: 🎖️ Military, ☯️ Classical Chinese Philosophy, 🎵 Music (Arrangement & Orchestration) ...
+- 🎮 Games: War Thunder, Hearts of Iron IV, Cities Skylines, MC, Dyson Sphere Program, Civilization VI... (Strategy/Paradox Fan)
 - ⚡ Fun fact: There are many things I still need to learn, we can learn and improve together!
-- Be free to ask me about anything [here](https://github.com/Hsiang-1/Hsiang-1/issues).
+- 🎁 Welcome to ask me about anything [here](https://github.com/Hsiang-1/Hsiang-1/issues).
+
 
 
 
