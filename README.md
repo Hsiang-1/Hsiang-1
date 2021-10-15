@@ -1,10 +1,10 @@
 ### Hi! I'm Hsiang. Nice to meet you! 👋
 
 - 🏛 I’m a student. My major is IoT Engineering. (Computer, Automation, Communication, Electronic, Artificial Intelligence...)
-- 🌱 I’m currently learning SLAM & Fusion Navigation, Intelligent Robot, Embedded System, C/C++ and further learning Algorithm.
+- 👨‍🎓 I’m learning Intelligent Algorithm(ML/DL/PRAI), which is my target for the next stage. I'm just a beginner!
 - 📖 I’m also learning Algebra, Probability & Statistics, and a little Graph Theory. I think it's necessary, challenging but interesting.
+- 🌱 I used to learn SLAM & Fusion Navigation, Intelligent Robot, Embedded System, C/C++ and some Algorithm.
 - 👯 I’m looking to collaborate on some small projects in hardware (Embedded) or software (C++/Python). We can enjoy it together!
-- 🤔 I’m looking for help with Intelligent Algorithm(ML/DL/PRAI), which is my target for the next stage maybe.
 - 🀄 Other Interests: 🎖️ Military, ☯️ Classical Chinese Philosophy, 🎵 Music (Arrangement & Orchestration) ...
 - 🎮 Games: War Thunder, Hearts of Iron IV, Cities Skylines, Minecraft, Dyson Sphere Program, Civilization VI... (Strategy/Paradox Fan)
 - ⚡ Fun fact: There are many things I still need to learn, we can learn and improve together!
