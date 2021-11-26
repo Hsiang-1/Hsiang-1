@@ -6,7 +6,7 @@
 - 🌱 I used to learn SLAM & Fusion Navigation, Intelligent Robot, Embedded System, C/C++ and some Algorithm.
 - 👯 I’m looking to collaborate on some small projects in hardware (Embedded) or software (C++/Python). We can enjoy it together!
 - 🀄 Other Interests: 🎖️ Military, ☯️ Classical Chinese Philosophy, 🎵 Music (Arrangement & Orchestration) ...
-- 🎮 Games: War Thunder, Hearts of Iron IV, Cities Skylines, Minecraft, Dyson Sphere Program, Civilization VI... (Strategy/Paradox Fan)
+- 🎮 Games: War Thunder, Hearts of Iron IV, Cities Skylines, Minecraft, Dyson Sphere Program, Civilization V... (Strategy/Paradox Fan)
 - ⚡ Fun fact: There are many things I still need to learn, we can learn and improve together!
 - 🍓 [Here](http://sxlearning.xyz) is my original learning site. And I prepare to create a new site for both learning & living in my spare time.
 - 🎁 Welcome to ask me about anything [here](https://github.com/Hsiang-1/Hsiang-1/issues).
