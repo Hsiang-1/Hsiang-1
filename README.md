@@ -1,11 +1,24 @@
+
+### Nice to meet you! 👋
+
+- The spring breeze caresses the willow on the shore 🌿
+- The summer rain harmonizes for singing cicadas 🐞
+- The autumn water holds the beautiful rainbow 🌈
+- The winter fog embraces the glow of the sky ⛄️
+
+---
+
+### 你好! 👋
+
 - 春风拂岸柳🌿
 - 夏雨催鸣蝉🐞
 - 秋水映丽虹🌈
 - 冬雾迎霞光⛄️
 
 
-
 <!--
+(Translated by myself)
+
 
 ### Hi! I'm Hsiang. Nice to meet you! 👋
 - 🏛 I’m a student. My major is IoT Engineering. (Computer, Automation, Communication, Electronic, Artificial Intelligence...)
