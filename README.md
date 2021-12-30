@@ -6,7 +6,6 @@
 - The autumn water holds the beautiful rainbow 🌈
 - The winter fog embraces the glow of the sky ⛄️
 
----
 
 ### 你好! 👋
 
