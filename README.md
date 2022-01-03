@@ -1,6 +1,14 @@
 
 ### Nice to meet you! 👋
 
+- 春风拂岸柳🌿
+- 夏雨催鸣蝉🐞
+- 秋水映丽虹🌈
+- 冬雾迎霞光⛄️
+
+
+<!--
+
 - The spring breeze caresses the willow on the shore 🌿
 - The summer rain harmonizes for singing cicadas 🐞
 - The autumn water holds the beautiful rainbow 🌈
@@ -9,13 +17,8 @@
 
 ### 你好! 👋
 
-- 春风拂岸柳🌿
-- 夏雨催鸣蝉🐞
-- 秋水映丽虹🌈
-- 冬雾迎霞光⛄️
 
 
-<!--
 (Translated by myself)
 
 
