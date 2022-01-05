@@ -1,3 +1,10 @@
+### Nice to meet you! 👋
+
+- I focus on **AI especially optimization and RL** recently. 
+- I'm a student majoring in computer science and I'm reading books about functional analysis and Gaussian Process currently.  
+- We can have exchanges in these areas.  
+
+<!--
 
 ### Nice to meet you! 👋
 
@@ -6,8 +13,6 @@
 - 秋水映丽虹🌈
 - 冬雾迎霞光⛄️
 
-
-<!--
 
 - The spring breeze caresses the willow on the shore 🌿
 - The summer rain harmonizes for singing cicadas 🐞
