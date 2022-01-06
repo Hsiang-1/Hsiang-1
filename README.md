@@ -2,7 +2,7 @@
 
 - I focus on **AI especially optimization and RL** recently. 
 - I'm a student majoring in computer science and I'm reading books about functional analysis and Gaussian Process currently.  
-- We can have exchanges in these areas.  [E-mail](mailto:shuhsiang@163.com)
+- We can have exchanges in these areas.  [[E-mail](mailto:shuhsiang@163.com)]
 
 
 <!--
