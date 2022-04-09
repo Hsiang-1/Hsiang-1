@@ -1,11 +1,16 @@
 ### Nice to meet you! 👋
 
-- I focus on **AI especially optimization and RL** recently. 
-- I'm a student majoring in computer science and I'm reading books about functional analysis and Gaussian Process currently.  
+- I focus on **AI especially optimization and RL** recently.  
 - We can have exchanges in these areas.  [[E-mail](mailto:shuhsiang@163.com)]
 
 
+
+
+
+
 <!--
+- I'm a student majoring in computer science. and I'm reading books about functional analysis and Gaussian Process currently
+
 
 ### Nice to meet you! 👋
 
