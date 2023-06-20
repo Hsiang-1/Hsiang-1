@@ -1,7 +1,7 @@
 ### Nice to meet you! 👋
 
 - I focus on **AI especially optimization and RL** recently.  
-- We can have exchanges in these areas.  [[E-mail](mailto:51255901138@stu.ecnu.edu.cn)]
+- We can have exchanges in these areas.  E-mail: [shux@stu.ecnu.edu.cn](mailto:shux@stu.ecnu.edu.cn)
 
 
 
