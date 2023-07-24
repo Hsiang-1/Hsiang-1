@@ -1,6 +1,6 @@
 ### Nice to meet you! 👋
 
-- I focus on **AI especially optimization and RL** recently.  
+- I focus on **AI especially Language Model and Optimization** recently.  
 - We can have exchanges in these areas.  E-mail: [shux@stu.ecnu.edu.cn](mailto:shux@stu.ecnu.edu.cn)
 
 
