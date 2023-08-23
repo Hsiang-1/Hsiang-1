@@ -2,8 +2,7 @@
 
 - I focus on **AI especially Language Model and Optimization** recently.  
 - We can have exchanges in these areas.  E-mail: [shux@stu.ecnu.edu.cn](mailto:shux@stu.ecnu.edu.cn)
-- Here are my notes and blogs. \[[Homepage](https://hsiang-1.github.io/)\] \[[Ansatz's Notes](https://hsiang-1.github.io/AnsatzNotes/)\]
-
+- Here are my [homepage](https://hsiang-1.github.io/) and [notes](https://hsiang-1.github.io/AnsatzNotes/) .
 
 
 
