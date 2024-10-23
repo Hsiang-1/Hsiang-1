@@ -1,6 +1,6 @@
 ### Nice to meet you! 👋
 
-- I focus on **AI especially Language Model and Black-box Optimization** recently.  
+- I focus on **AI especially Large Language Models (LLMs) and Black-box Optimization** recently.  
 - We can have exchanges in these areas.  E-mail: [shux@stu.ecnu.edu.cn](mailto:shux@stu.ecnu.edu.cn)
 
 <!-- - Here are my [homepage](https://hsiang-1.github.io/) and [notes](https://hsiang-1.github.io/AnsatzNotes/) .-->
